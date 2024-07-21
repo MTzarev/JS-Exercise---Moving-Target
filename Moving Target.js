@@ -1,5 +1,6 @@
 funciton movingTarget (){
 
+    
     console.log();
 }
 movingTarget((["52 74 23 44 96 110",
